@@ -33,9 +33,9 @@ $font: (
 {% assign accent = site.accent_color | default: '#2d72d9' %}
 $palette: (
   accent:    {{ accent }},
-  primary:   #6b747a,
-  secondary: #2c343c,
-  meta:      #9ba6ad,
+  primary:   #264653,
+  secondary: #264653,
+  meta:      #289daf,
   border:    #d7d7d7,
   bg:        #fbfbfb
 );
