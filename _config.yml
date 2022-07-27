@@ -10,6 +10,7 @@ lang: en-US
 
 # Site title
 title: "pot-kettle-black"
+longtitle: "pot-kettle-black is a theme"
 
 # A description of your site for meta tag, search engine results.
 description: "pot-kettle-black is Jekyll theme based on Scriptor by Just Good Themes"
